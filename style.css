@@ -661,7 +661,7 @@ padding: 40px 20px ;
   color: rgb(0, 17, 255);
 }
 #about h2{
-  color: rgb(255, 255, 255);
+  color: rgb(68 225 123);
 }
 .headerh{
   display: flex;
@@ -677,6 +677,6 @@ padding: 40px 20px ;
  list-style: none;
 }
 #about h4{
-color: rgb(75, 153, 75);
+color: rgb(88,224,255/69%);
 }
 
