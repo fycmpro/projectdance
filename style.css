@@ -658,10 +658,10 @@ padding: 40px 20px ;
   justify-content: center;
 }
 #about h2 span{
-  color: rgb(0, 17, 255);
+  color: rgb(68,225,123);
 }
 #about h2{
-  color: rgb(68 225 123);
+  color: rgb(0, 17, 255);
 }
 .headerh{
   display: flex;
@@ -677,6 +677,6 @@ padding: 40px 20px ;
  list-style: none;
 }
 #about h4{
-color: rgb(88,224,255/69%);
+color: rgb(88,224,255);
 }
 
