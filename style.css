@@ -679,4 +679,18 @@ padding: 40px 20px ;
 #about h4{
 color: rgb(88,224,255);
 }
-
+#sm-banne .banne-box{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: flex-start;
+      background-image: url(img/break dance 1.jpg) ;
+      min-width: 49%;
+      height: 50vh;
+      background-size: cover;
+      background-position: center;
+      padding: 30px;
+    }
+    #sm-banne .banne-box2{
+      background-image: url(img/break dance 2.jpg) ;
+    } 
