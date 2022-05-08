@@ -321,11 +321,18 @@ font-size: 16px;
  #sm-banner .banner-box8{
       background-image: url(img/dance\ 8.jpg) ;
     }
+ #sm-banner .banner-box9{
+      background-image: url(img/dance\ 9.jpg) ;
+    }
+ #sm-banner .banner-box10{
+      background-image: url(img/dance\ 10.jpg) ;
+    }
     #sm-banner{
       display: flex;
       justify-content: space-between;
       flex-wrap: wrap;
     }
+
     #sm-banner h4{
       color: #fff;
       font-size: 20px;
